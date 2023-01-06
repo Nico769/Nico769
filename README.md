@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Nicola_Landolfi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ncllndeng/)](https://www.linkedin.com/in/ncllndeng/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nico769.Nico769)
 
-**I'm an aspiring (*pragmatic*) Software Engineer with a huge passion for turning ideas into human-readable & testable code, open source and machine learning.**
+**I'm a pragmatic Software Engineer with a huge passion for turning ideas into human-readable & testable code, open source and machine learning.**
 
 ---
 ⭐️ From [Nico769](https://github.com/Nico769)
